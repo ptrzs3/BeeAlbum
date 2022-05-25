@@ -18,7 +18,7 @@ Timer_1控制随机播放，Timer_2控制顺序播放
 
 #### [B]
 
-控制Timer_2启停
+控制Timer_2启停，Timer_1停止时才可启动，Timer_1可以中止Timer_2
 
 #### [N]
 
